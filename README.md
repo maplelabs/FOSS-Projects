@@ -78,8 +78,7 @@ or declined or by asking for a proposal doc).
 
 Proposal issues are tracked in the
 [FOSS Proposals Dashboard project]( https://github.com/orgs/maplelabs/projects/4/views/1 ).
-The current state of the proposal is captured by the columns in that project,
-as described below.
+The current state of the proposal is captured by the columns in that project (Todo, In-progress, Accepted, Declined, On-hold).
 
 ## Help
 
