@@ -19,6 +19,9 @@ a decision about whether to accept or decline the proposal.
 - Ballpark effort estimate ( X engineers for Y Months)
 - Expected number of users/organizations of the proposed project (Submit supporting material, if it exists). .\
    
+   Proposal author can add supporting documents if any by adding a folder in the proposal-docs with name as <Git Issue dexcription> followed by <GIT issue #ID>. 
+   Example: directory name can be opensearch-scaling-manager#1 for the proposal https://github.com/maplelabs/FOSS-Proposals/issues/1
+   
 2. A discussion on the issue tracker aims to triage the proposal into one of the four outcomes:
      - Accept proposal, or
      - decline proposal, or
