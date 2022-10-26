@@ -1,4 +1,4 @@
-Details of FOSS community:
+Below are the details of some of the active FOSS communities:
 
 | FOSS Community Name 	| Website                         	| Monthly Meetup 	| Remarks                                              	|
 |---------------------	|---------------------------------	|----------------	|------------------------------------------------------	|
