@@ -16,7 +16,10 @@ Q. [ Why my system is getting crashed or delayed response after I started using 
 
 Q. [ Why i am unable to hear voice or video call? ](#question4)
 
-
+<br>
+<br>
+<br>
+<br>
 <a name="question1"></a>
 Q. Why my system is getting slow response after I started using Discord? \
 A. Try disabling the "Hardware Acceleration" under the Advanced section in User Settings.
