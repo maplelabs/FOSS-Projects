@@ -1,13 +1,13 @@
 # Welcome to MapleLabs FOSS Help Center
 
-# General
+## General
 
 Q. [ What are the OS requirements for accessing the Discord? ](#question3)
 
 Q. [ What is Discord Nitro? ](#question5)
 
 
-# Connection
+## Connection
 
 
 Q. [ Why my system is getting slow response after I started using Discord?  ](#question1)
@@ -20,6 +20,9 @@ Q. [ Why i am unable to hear voice or video call? ](#question4)
 <br>
 <br>
 <br>
+<br>
+<br>
+
 <a name="question1"></a>
 Q. Why my system is getting slow response after I started using Discord? \
 A. Try disabling the "Hardware Acceleration" under the Advanced section in User Settings.
