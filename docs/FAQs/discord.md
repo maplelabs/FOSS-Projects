@@ -17,7 +17,7 @@ Q. [ Why my system is getting crashed or getting delayed response after I starte
 Q. [ Why I am unable to hear voice or video call? ](#question4)
 
 ## Misc
-
+Q. [ My questions are not listed here, what should I do? ](#question6)
 
 <br>
 <br>
@@ -49,5 +49,5 @@ Q. What is Discord Nitro? \
 A. With Nitro, you may get perks to enhance your Discord experience. Check out discord site for more details.
 
 <a name="question6"></a>
-Q. My questions are list here, what should I do? \
+Q. My questions are not listed here, what should I do? \
 A. Drop a message in "help-needed" channel or write to foss@maplelabs.com
