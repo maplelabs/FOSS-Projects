@@ -3,8 +3,7 @@
 ## How to set up regular/recurring meetings in MapleLabs Discord server for your project needs?
 
 ### 1. Create a calendar file (.ics) using your mail providers interface 
-How? check here:
-
+How? check here:\
 [Outlook Calendar](#outlook-calendar)\
 [Google Calendar](#google-calendar)
 
@@ -12,7 +11,7 @@ How? check here:
 For example:\
 Meeting Title: OpenSearch Scaling Manager SyncUp\
 Date/Time: Monday to Friday, from 11:15AM to 11:45 AM\
-Location: https://discordapp.com/channels/1020294105802219530/1020295544389775370\
+Location: https://discordapp.com/channels/1020294105802219530/1020295544389775370 \
 Agenda: This meeting is to discuss progress made on OpenSearch scaling manger.
 
 ### 3. Attach .ics file in discord channel
