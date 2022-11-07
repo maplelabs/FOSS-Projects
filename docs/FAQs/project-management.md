@@ -4,6 +4,7 @@
 
 ### 1. Create a calendar file (.ics) using your mail providers interface 
 How? check here:
+
 [Outlook Calendar](#outlook-calendar)\
 [Google Calendar](#google-calendar)
 
