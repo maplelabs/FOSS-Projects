@@ -9,10 +9,10 @@ How? check here:
 [Google Calendar](#google-calendar)
 
 ### 2. Send a meeting message with meeting details
-For example:
-Meeting Title: OpenSearch Scaling Manager SyncUp
-Date/Time: Monday to Friday, from 11:15AM to 11:45 AM
-Location: https://discordapp.com/channels/1020294105802219530/1020295544389775370
+For example:\
+Meeting Title: OpenSearch Scaling Manager SyncUp\
+Date/Time: Monday to Friday, from 11:15AM to 11:45 AM\
+Location: https://discordapp.com/channels/1020294105802219530/1020295544389775370\
 Agenda: This meeting is to discuss progress made on OpenSearch scaling manger.
 
 ### 3. Attach .ics file in discord channel
